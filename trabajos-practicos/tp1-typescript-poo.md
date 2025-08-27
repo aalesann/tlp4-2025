@@ -82,6 +82,7 @@ tp-torneos/
 ---
 
 ## Entregable
+- Crear repositorio en GitHub con la nomenclatura ```tp1-${apellido-nombre}``` (NO usar mayúsculas)
 - Proyecto con la estructura indicada y módulos ESM.
 - `main.ts` debe incluir pruebas demostrables por consola.
 - Subir el proyecto a GitHub y entregar en classroom tanto el link del repositorio.
